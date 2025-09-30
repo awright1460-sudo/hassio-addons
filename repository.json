@@ -1,0 +1,5 @@
+{
+  "name": "My Local Add-ons",
+  "url": "https://github.com/<your-username>/hassio-addons",
+  "maintainer": "<your name>"
+}
